@@ -1,6 +1,9 @@
 # Assignment 01 - Variable, Expression, Input and Output
 
+
 ## Tiếng Việt
+
+### Yêu cầu:
 
 Viết một chương trình để tính tiền chi trả cho nhân viên. Với hai thông số được nhập vào từ bàn phím là số giờ công (*hours*) và số tiền phải trả cho mỗi giờ (*rate*). In ra màn hình số tiền phải trả (*price*). Tên biến phải đặt theo quy ước là (*hours*, *rate* và *price*).
 
@@ -21,6 +24,8 @@ Số tiền phải trả là: 96.25
 - Học sinh phải tự làm bài tập này
 
 ## English version
+
+### Requirement:
 
 Write a program to calculate employee pay. With two parameters entered from the keyboard are the work hours (hours) and the rate per hour (rate). Print to the screen the amount to be paid (price).
 
