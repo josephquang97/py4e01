@@ -42,5 +42,5 @@ The price: 96.25
 
 - Only edit the main.py file to complete the requirements of the exercise
 - Do not change change the file name
-- Variable names must be set by convention (hours, rate and price).
+- Variable names must be set by convention (hours, rate and price)
 - Must do this exercise by yourself
